@@ -255,3 +255,5 @@ The application will open in your browser at:
 http://localhost:8501
 ```
 
+##  Screenshots
+<img width="1913" height="917" alt="Screenshot 2026-08-06 010204" src="https://github.com/user-attachments/assets/7774b845-296f-4335-b758-53f5c8763609" />
